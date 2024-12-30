@@ -2,7 +2,7 @@
 A small script that takes you on a wild ride and assists in fixing your mushy textures for unoptimised servers with an ox_lib dependency.
 
 # Preview:
-[![Click to view Preview](https://img.youtube.com/vi/UHPCnweJznI/0.jpg)](https://www.youtube.com/watch?v=UHPCnweJznI)
+[![YouTube](https://img.youtube.com/vi/UHPCnweJznI/0.jpg)](https://www.youtube.com/watch?v=UHPCnweJznI)
 
 # Dependencies:
 Ensure that you have all required dependencies to use this resource. I may include support for other dependencies on request. Just send me a message on discord at: springo_1
